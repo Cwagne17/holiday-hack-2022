@@ -1,1 +1,6 @@
 # holiday-hack-2022
+
+## Kringle Wallet
+
+WalletAddress: 0x0a017c8ca402bc6d6AaFb6851F507D33343CaB1F
+Key: 0x5edafe6936e897d8ab4c2fdf91759febb88a1da6b3c41a171452253aacf05031
